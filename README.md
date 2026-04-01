@@ -1,1 +1,3 @@
 # openaidisk
+
+for openai read?
